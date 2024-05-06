@@ -6,7 +6,7 @@ from aldryn_search import __version__
 
 REQUIREMENTS = [
     "lxml",
-    "lxml_html_clean"
+    "lxml_html_clean",
     "setuptools",
     "django-appconf",
     "django-cms>=3.4.5",
